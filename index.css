@@ -1,0 +1,14 @@
+nav {
+  background-color: aqua;
+}
+nav ul {
+  list-style-type: none;
+}
+ li {
+  display: inline-block;
+}
+nav ul li a {
+  display: block;
+  padding: 20px 10px;
+  text-decoration: none;
+}
